@@ -41,7 +41,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 - [ ] Playlist info
 - [ ] Owned/All playlists toggle
 - [ ] Github info
-- [ ] favicon
+- [X] favicon
 - [ ] Ability to choose column span
 
 ## Contributing
