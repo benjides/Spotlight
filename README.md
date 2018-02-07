@@ -4,7 +4,7 @@
 
 A Vue JS app
 
-This is just a toy experiment to play around with animations and different Vue stuff, do not take as a real app with a real purpose :sparkles .
+This is just a toy experiment to play around with animations and different Vue stuff, do not take as a real app with a real purpose :sparkles: .
 
 ## Build Setup
 
